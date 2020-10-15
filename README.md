@@ -5,7 +5,7 @@ My web developer portfolio that showcases my skills and projects.
 <hr/>
 
 ## Demo display opf web page:
-<img src="Demo.gif" alt="Demo display of web page">
+<img src="demo.gif" alt="Demo display of web page">
 <hr/>
 
 ## To view my developer profile:
