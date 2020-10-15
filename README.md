@@ -2,6 +2,7 @@
 My web developer portfolio that showcases my skills and projects.
 
 * All projects can be seen on my GitHub profile.
+* My developer profile project was put together using React.
 <hr/>
 
 ## Demo display opf web page:
