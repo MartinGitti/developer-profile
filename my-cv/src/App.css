@@ -1,0 +1,74 @@
+/* Styling Sheet for React App content. */
+
+.App {
+  background-color: #a09e9e;
+  text-align: center;
+}
+
+.App-logo {
+  border-radius: 50%;
+  height: 600px;
+  max-width: 500px;
+  pointer-events: none;
+}
+
+.App-header {
+  align-items: center;
+  background-color: #282c34;
+  background-image: url(./Images/coding.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  color: white;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  justify-content: center;
+  padding: 40px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#Email-icon {
+  height: 70px;
+  width: 70px;
+}
+
+#Github-icon {
+  height: 70px;
+  width: 70px;
+}
+
+h2 {
+  text-decoration: underline;
+}
+
+p {
+  font-weight: 500;
+  padding: 30px;
+}
+
+.skills-logo {
+  height: 11%;
+  padding: 20px;
+  width: 11%;
+}
+
+.quotes {
+  color: #154ba3;
+}
+
+/*ID attributes:*/
+
+#github{
+  font-weight: bold;
+  color: rgb(13, 116, 233);
+}
+
+#arrows{
+  font-size: 50px;
+  color: rgb(13, 116, 233);
+}
+
+/* THE END */
+
